@@ -1,0 +1,23 @@
+{
+  "name": "angular_weatherapp",
+  "authors": [
+    "Tin <tinytheyfon8@gmail.com>"
+  ],
+  "description": "Weather App using Angular. Project from freecodecamp.",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1"
+  }
+}
